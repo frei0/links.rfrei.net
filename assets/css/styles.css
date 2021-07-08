@@ -1,0 +1,13 @@
+body {
+  padding: 10px;
+  background-color: hsl(0, 0%, 97%);
+}
+h1.post-heading {
+  color: hsl(20, 20%, 30%);
+  font-family: sans;
+}
+p.links-link {
+  color: hsl(20, 20%, 20%);
+  font-family: sans;
+  padding-left: 10px
+}
